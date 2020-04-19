@@ -8,7 +8,7 @@ age = 21
 favorite_food = "taco salad"
 height_in_inches = 74
 height_message = (height_in_inches > AVERAGE_HEIGHT_IN_INCHES) 
-"You are taller than average" : "You are not taller than average"
+"You are taller than average"  "You are not taller than average"
 
 ## Do not modify below this line!
 
